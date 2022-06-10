@@ -1,1 +1,2 @@
-hello simply learn
+Name Sam
+Registration 12479
